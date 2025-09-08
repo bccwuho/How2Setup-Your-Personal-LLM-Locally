@@ -8,7 +8,7 @@
 
 ### 1.3 本地性价比高的小模型
 [livebench.ai](https://livebench.ai/) 上发现32b以下模型最具性价比的是qwen3-30b-a3b-2507（25/7版又大大优于图中4月的版本），所以即使Q4（模型的显存+内存只有18GB，且为MoE模型，激活时实际参与计算的参数量只有3.3b，故推理速度极快）量化后实测仍然也不输GPT4.5了。同时其推理模型qwen3-30b-a3b-think-2507在数学、逻辑、编程上更强。并且两者都上下文都支持32K（可扩展到256K）支持Tool Use和最新的MCP，所以是个人本地LLM小模型的首选。<BR>
-<img width="315" height="150" alt="image" src="https://github.com/user-attachments/assets/766ada71-dbf4-4dcf-8387-d5f07511491b" />
+![alt text](image-1.png)
 
 
 ### 1.3 硬件
