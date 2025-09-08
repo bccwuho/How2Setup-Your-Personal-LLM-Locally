@@ -16,9 +16,9 @@
 
 ## 2 实战
 ### 2.1 下载并安装lmstudio
-### 2.2 在LMStudio中下载LLM
-1）点击状态栏左侧的Developer Tab
-2）
+### 2.2 打开lmstduio，如下图依次做，下载并安装qwen3-30b-a3b-2507
+![alt text](lmstudo选qwen3-30b.png)
+
 
 
 
