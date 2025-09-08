@@ -18,7 +18,12 @@
 ### 2.1 下载并安装lmstudio
 ### 2.2 打开lmstduio，如下图依次做，下载并安装qwen3-30b-a3b-2507
 ![alt text](lmstudo选qwen3-30b.png)
+### 2.3 然后就可以在“Chat”界面里选择模型和LLM聊天了（如下图依次做）
+![alt text](lmstudo使用qwen3-30b.png)
 
+Tip：
+1、注意qwen3-30b-a3b-2507模型大小为18G，已经超过了4060的8G显存+Win11自动分配的8G共享显存（内存的一半），所以推理时用的是GPU+CPU混合推理，故速度是不高的，相当于此模型是Y7000p这台机器的极限挑战了，所以上下文长度最多也只能是4-32K
+2、另有更强的Qwen3-30B-A3B-Thinking-2507-GGUF 模型，但thinking模型思考时间更长，最终结果输出更慢，所以在4060上跑MCP有点勉强
 
 
 
