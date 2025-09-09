@@ -20,7 +20,7 @@
 ![alt text](lmstudo选qwen3-30b.png)
 ### 2.3 然后就可以在“Chat”界面里选择模型和LLM聊天了（如下图依次做）
 ![alt text](lmstudo使用qwen3-30b.png)
-### 2.4 最后lmstduio还可以在“开发者”界面为其他chatbot前端或者Claude Code/VS code插件提供LLM API服务（如果依次做即可）
+### 2.4 最后lmstduio还可以在“开发者”界面为其他chatbot前端或者Claude Code/VS code插件提供LLM API服务（如下图依次做即可）
 ![alt text](lmstudo提供API服务.png)
 
 Tip：<BR>
